@@ -1,3 +1,5 @@
+import java.util.Scanner;
+
 public class questao11 {
     public static void main(String[] args) {
         String texto = "string ";
